@@ -1,11 +1,23 @@
+# SMECO
+Smart Eco Systems - where ecology and economy converge to power intelligent, sustainable infrastructure for cities, citizens, and the planet.
+
+![Route Planing Example](images/erp_app.png)
+
+
+# About SMECO
+SMECO Systems are smart logistics and information systems for glass container collection. SMECO optimizes collection routes for glass container trucks using real-time fill-level data from sensors, ensuring efficient and sustainable operations. Additionally, the system offers a user-friendly app for citizens to check nearby container fill levels, helping them avoid overfilled sites and promoting responsible recycling behavior.
+
+![Citizen App Example](images/citizen_app.png)
+
 <h1 align="center">♻️ Container Occupancy Management Backend</h1>
 <p align="center">
   <b>Smart, Sustainable, and Scalable Waste Collection</b><br>
   <i>Built with FastAPI & MySQL • Ready for Hackathons • Flutter-Ready API</i><br>
-  <a href="https://hackxplore-backend.onrender.com/docs" target="_blank"><b>🌐 Live API Docs (Deployed Version)</b></a>
+  <a href="https://hackxplore-backend.onrender.com/docs" target="_blank"><b>🌐 Live API Docs (Deployed Version) hackxplore-backend.onrender.com/docs</b></a>
 </p>
 
 ---
+![Endpoints](images/endpoints.png)
 
 ## 🚀 Why This Project?
 
