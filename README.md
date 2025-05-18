@@ -166,7 +166,7 @@ MIT License
 <p align="center">
   <b>Let’s make waste collection smarter, greener, and hackathon-winning! 🚛🌍</b>
 </p>
-<h1 align="center">♻️ HackXplore Smart Waste Dashboard</h1>
+<h1 align="center"> HackXplore Smart Waste Dashboard FRONTEND</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/hackathon-hackxplore-blueviolet?style=flat-square" />
